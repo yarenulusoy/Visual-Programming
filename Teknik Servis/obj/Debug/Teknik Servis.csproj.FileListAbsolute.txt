@@ -1,0 +1,148 @@
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe.config
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.pdb
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csprojAssemblyReference.cache
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form1.resources
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form2.resources
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form3.resources
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Properties.Resources.resources
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.GenerateResource.cache
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.CoreCompileInputs.cache
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.exe
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.pdb
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form6.resources
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form4.resources
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form5.resources
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form7.resources
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form8.resources
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\bin\Debug\AForge.xml
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\bin\Debug\AForge.Video.xml
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.CopyComplete
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Teknik Servis.exe.config
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Teknik Servis.exe
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Teknik Servis.pdb
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\AForge.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\AForge.Video.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\AForge.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\AForge.Video.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik Servis.csprojAssemblyReference.cache
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form1.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form2.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form3.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form4.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form5.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form6.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form7.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form8.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Properties.Resources.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik Servis.csproj.GenerateResource.cache
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik Servis.csproj.CoreCompileInputs.cache
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik Servis.csproj.CopyComplete
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik Servis.exe
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik Servis.pdb
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form9.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2019.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.UI.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.World.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.World.NetStandard1_4.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\ZedGraph.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.UI.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.World.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\Emgu.CV.World.NetStandard1_4.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\obj\Debug\Teknik Servis.exe.config
+C:\Users\yaren\source\repos\Teknik Servis - Kopya\Teknik Servis\bin\Debug\VMLLib.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Teknik Servis.exe.config
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Teknik Servis.exe
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Teknik Servis.pdb
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2019.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.UI.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.World.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.World.NetStandard1_4.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\VMLLib.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\ZedGraph.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\AForge.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\AForge.Video.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.UI.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.World.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\bin\Debug\Emgu.CV.World.NetStandard1_4.xml
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik Servis.csprojAssemblyReference.cache
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik Servis.exe.config
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form1.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form2.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form3.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form4.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form5.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form6.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form7.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form9.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Properties.Resources.resources
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik Servis.csproj.GenerateResource.cache
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik Servis.csproj.CoreCompileInputs.cache
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik Servis.csproj.CopyComplete
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik Servis.exe
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik Servis.pdb
+C:\Users\yaren\source\repos\Teknik Servis - Kopya - Kopya\Teknik Servis\obj\Debug\Teknik_Servis.Form8.resources
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form9.resources
+C:\Users\yaren\source\repos\Teknik Servis\Teknik Servis\bin\Debug\ZedGraph.dll
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe.config
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.pdb
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\bin\Debug\AForge.xml
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\bin\Debug\AForge.Video.xml
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csprojAssemblyReference.cache
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form1.resources
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form2.resources
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form3.resources
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form4.resources
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form5.resources
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form6.resources
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form7.resources
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form8.resources
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form9.resources
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Properties.Resources.resources
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.GenerateResource.cache
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.CoreCompileInputs.cache
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.CopyComplete
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.exe
+C:\Users\yaren\source\repos\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.pdb
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe.config
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.pdb
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\bin\Debug\AForge.xml
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\bin\Debug\AForge.Video.xml
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\bin\Debug\AForge.Video.DirectShow.xml
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csprojAssemblyReference.cache
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form1.resources
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form2.resources
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form3.resources
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form4.resources
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form5.resources
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form6.resources
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form7.resources
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form8.resources
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Form9.resources
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Properties.Resources.resources
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.GenerateResource.cache
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.CoreCompileInputs.cache
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.CopyComplete
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.exe
+E:\YAREN\NOTLAR\2.sınıf 1.dönem\Görsel P. Proje\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.pdb
