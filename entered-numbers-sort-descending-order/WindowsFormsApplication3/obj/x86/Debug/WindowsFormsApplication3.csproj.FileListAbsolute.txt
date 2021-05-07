@@ -1,0 +1,31 @@
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+c:\users\labc\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\PC\Desktop\NESNE YÖNELİMLİ  2\1 kasım\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\görsel pro 1\2 mart\soru 7\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+F:\görsel pro 1\2 mart\soru 7\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\2 mart\soru 7\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\2 mart\soru 7\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\FATİHK\Videos\görsel 1\2 mart\soru 7\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\FATİHK\Videos\görsel 1\2 mart\soru 7\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\FATIHKAZDAL\Desktop\ÖĞRETMEN BİLGİSAYARI DERS NOTLARI\GÖRSEL 1\2 mart\soru 7\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\FATIHKAZDAL\Desktop\ÖĞRETMEN BİLGİSAYARI DERS NOTLARI\GÖRSEL 1\2 mart\soru 7\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\yasin\Desktop\entered-numbers-sort-descending-order\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\yasin\Desktop\entered-numbers-sort-descending-order\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\yasin\Desktop\entered-numbers-sort-descending-order\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\entered-numbers-sort-descending-order\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\yasin\Desktop\entered-numbers-sort-descending-order\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\yasin\Desktop\entered-numbers-sort-descending-order\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\entered-numbers-sort-descending-order\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\entered-numbers-sort-descending-order\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\yasin\Desktop\entered-numbers-sort-descending-order\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb

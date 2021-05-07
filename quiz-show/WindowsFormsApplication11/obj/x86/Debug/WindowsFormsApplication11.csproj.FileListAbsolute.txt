@@ -1,0 +1,53 @@
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form2.resources
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form3.resources
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form4.resources
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form5.resources
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+c:\users\pc\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+E:\görsel pro 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+E:\görsel pro 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\Lab-b-ogretmen\Videos\Görsel Programlama 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+C:\Users\FATİHK\Videos\görsel 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\FATİHK\Videos\görsel 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+C:\Users\FATİHK\Videos\görsel 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\FATİHK\Videos\görsel 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\FATİHK\Videos\görsel 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\FATİHK\Videos\görsel 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\FATİHK\Videos\görsel 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form2.resources
+C:\Users\FATİHK\Videos\görsel 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form3.resources
+C:\Users\FATİHK\Videos\görsel 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form4.resources
+C:\Users\FATİHK\Videos\görsel 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form5.resources
+C:\Users\FATİHK\Videos\görsel 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\FATİHK\Videos\görsel 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form2.resources
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form3.resources
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form4.resources
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form5.resources
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+C:\Users\yasin\Desktop\GÖRSEL 1\8 mayıs test\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form2.resources
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form3.resources
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form4.resources
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form5.resources
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\yasin\Desktop\quiz-show\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
